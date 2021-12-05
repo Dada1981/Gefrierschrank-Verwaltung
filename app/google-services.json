@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833201582956",
+    "project_id": "mahlendur-a7dd8",
+    "storage_bucket": "mahlendur-a7dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833201582956:android:668fd3ac93eb6a56f93949",
+        "android_client_info": {
+          "package_name": "com.mahlendur.gefrierschrank_verwaltung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833201582956-dbtkhj3n4eh4l3fk4getmqa41gbvdco4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf96Lq-Qbf9sr0cL9TCGgxmoNMxesH-IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833201582956-dbtkhj3n4eh4l3fk4getmqa41gbvdco4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
